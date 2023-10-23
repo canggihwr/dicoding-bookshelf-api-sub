@@ -1,0 +1,11 @@
+{
+  "name": "javascript-basic",
+  "version": "1.0.0",
+  "description": "javascript basic - dicoding course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "canggihwr",
+  "license": "ISC"
+}
